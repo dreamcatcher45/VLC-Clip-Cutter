@@ -2,7 +2,7 @@ function descriptor()
     return {
         title = "Clip Cutter",
         version = "1.1",
-        author = "Jerome George",
+        author = "dreamcatcher45",
         capabilities = {"menu", "input-listener"}
     }
 end
