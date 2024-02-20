@@ -1,4 +1,7 @@
-# VLC-Clip-Cutter
+<div align="center">
+    <a href="#" title="Logo"><img src="image/README/logo.png" alt="Logo" height="95"></a>
+    <h2>VLC-Clip-Cutter</h2>
+    </div>
 
 Enhance your VLC Player experience with our video cut extension, empowering you to seamlessly trim videos directly within VLC. Set precise start and end points, effortlessly edit, and save your clips—all without compromising quality. Experience uninterrupted video editing, leaving behind the need for recording features
 
